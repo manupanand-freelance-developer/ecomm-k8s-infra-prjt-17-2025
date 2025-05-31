@@ -1,5 +1,5 @@
 
-# 🛒 AWS K3s 3-Tier Infrastructure for eCommerce Microservices
+# 🛒 AWS  3-Tier Infrastructure for eCommerce Microservices - Kubernetes -EKS
 
 This repository contains the infrastructure-as-code setup to deploy a production-ready **3-tier architecture** for an **eCommerce microservices application** on AWS using **K3s (lightweight Kubernetes)**. It leverages **Terraform**, **Ansible**, and **HashiCorp Vault** to automate infrastructure provisioning, configuration management, and secrets handling.
 
