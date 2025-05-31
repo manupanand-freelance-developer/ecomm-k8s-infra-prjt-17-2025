@@ -1,7 +1,7 @@
 
 # 🛒 AWS  3-Tier Infrastructure for eCommerce Microservices - Kubernetes -EKS
 
-This repository contains the infrastructure-as-code setup to deploy a production-ready **3-tier architecture** for an **eCommerce microservices application** on AWS using **K3s (lightweight Kubernetes)**. It leverages **Terraform**, **Ansible**, and **HashiCorp Vault** to automate infrastructure provisioning, configuration management, and secrets handling.
+This repository contains the infrastructure-as-code setup to deploy a production-ready **3-tier architecture** for an **eCommerce microservices application** on AWS using **EKS**. It leverages **Terraform**, **Ansible**, and **HashiCorp Vault** to automate infrastructure provisioning, configuration management, and secrets handling.
 
 ---
 
@@ -11,12 +11,12 @@ This repository contains the infrastructure-as-code setup to deploy a production
 - **Provisioning**: Terraform
 - **Configuration Management**: Ansible
 - **Secrets Management**: HashiCorp Vault
-- **Container Orchestration**: K3s Kubernetes
+- **Container Orchestration**: EKS
 - **Microservices (Languages)**:
-  - Node.js (e.g., Product Service)
-  - Python (e.g., Recommendation Service)
-  - Java (e.g., Order/Inventory Service)
-  - Go (e.g., Payment or Auth Service)
+  - Node.js 
+  - Python 
+  - Java 
+  - Go 
 - **Messaging**: RabbitMQ
 
 ---
@@ -43,8 +43,8 @@ This repository contains the infrastructure-as-code setup to deploy a production
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-org/aws-k3s-ecommerce.git
-cd aws-k3s-ecommerce
+git clone https://github.com/manupanand-freelance-developer/ecomm-k8s-infra-prjt-17-2025.git
+cd ecomm-k8s-infra-prjt-17-2025
 ````
 
 ### 2. Provision Infrastructure
