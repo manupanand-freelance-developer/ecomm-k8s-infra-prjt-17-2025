@@ -128,7 +128,7 @@ RabbitMQ is deployed internally for async communication:
 
 ## 👤 Author
 
-**Your Name**
+**MANU P ANAND**
 DevOps Engineer | Cloud Architect | Open Source Contributor
 [LinkedIn](https://www.linkedin.com/in/manupanand) · [GitHub](https://github.com/manupanand)
 
